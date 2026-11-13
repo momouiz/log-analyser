@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# dont upload real logs or reports, only the fake sample
+*.log
+!sample_auth.log
+report*.txt
+report*.csv
