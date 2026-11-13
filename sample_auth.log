@@ -1,0 +1,36 @@
+Nov 12 01:00:00 server1 sshd[2177]: Failed password for charlie from 198.51.100.77 port 50100 ssh2
+Nov 12 01:15:00 server1 sshd[2178]: Failed password for charlie from 198.51.100.77 port 50101 ssh2
+Nov 12 01:30:00 server1 sshd[2187]: Failed password for charlie from 198.51.100.77 port 50102 ssh2
+Nov 12 01:45:00 server1 sshd[2190]: Failed password for charlie from 198.51.100.77 port 50103 ssh2
+Nov 12 02:11:00 server1 sshd[2133]: Failed password for root from 203.0.113.45 port 40000 ssh2
+Nov 12 02:11:07 server1 sshd[2135]: Failed password for invalid user admin from 203.0.113.45 port 40013 ssh2
+Nov 12 02:11:14 server1 sshd[2139]: Failed password for root from 203.0.113.45 port 40026 ssh2
+Nov 12 02:11:21 server1 sshd[2141]: Failed password for invalid user test from 203.0.113.45 port 40039 ssh2
+Nov 12 02:11:28 server1 sshd[2150]: Failed password for invalid user ubuntu from 203.0.113.45 port 40052 ssh2
+Nov 12 02:11:35 server1 sshd[2157]: Failed password for root from 203.0.113.45 port 40065 ssh2
+Nov 12 02:11:42 server1 sshd[2158]: Failed password for invalid user oracle from 203.0.113.45 port 40078 ssh2
+Nov 12 02:11:49 server1 sshd[2160]: Failed password for invalid user admin from 203.0.113.45 port 40091 ssh2
+Nov 12 02:11:56 server1 sshd[2164]: Failed password for invalid user pi from 203.0.113.45 port 40104 ssh2
+Nov 12 02:12:03 server1 sshd[2165]: Failed password for root from 203.0.113.45 port 40117 ssh2
+Nov 12 02:12:10 server1 sshd[2172]: Failed password for invalid user guest from 203.0.113.45 port 40130 ssh2
+Nov 12 02:12:17 server1 sshd[2173]: Failed password for root from 203.0.113.45 port 40143 ssh2
+Nov 12 03:07:12 server1 sshd[2195]: Accepted password for charlie from 198.51.100.77 port 50999 ssh2
+Nov 12 04:30:00 server1 sshd[2247]: Connection closed by 203.0.113.45 port 40200 [preauth]
+Nov 12 06:00:00 server1 sshd[2239]: Received disconnect from 192.0.2.10 port 40011:11: disconnected by user
+Nov 12 08:02:20 server1 sshd[2107]: Accepted password for alice from 192.0.2.10 port 44943 ssh2
+Nov 12 09:15:41 server1 sshd[2109]: Accepted password for bob from 192.0.2.11 port 41582 ssh2
+Nov 12 10:30:00 server1 sshd[2117]: Failed password for bob from 192.0.2.11 port 51234 ssh2
+Nov 12 10:30:20 server1 sshd[2119]: Failed password for bob from 192.0.2.11 port 51240 ssh2
+Nov 12 10:30:45 server1 sshd[2126]: Accepted password for bob from 192.0.2.11 port 51250 ssh2
+Nov 12 11:01:00 server1 sshd[2245]: pam_unix(sshd:session): session opened for user alice by (uid=0)
+Nov 12 12:40:52 server1 sshd[2111]: Accepted password for alice from 192.0.2.10 port 57559 ssh2
+Nov 12 14:22:58 server1 sshd[2116]: Accepted password for charlie from 198.51.100.20 port 56627 ssh2
+Nov 12 17:05:23 server1 sshd[2112]: Accepted password for bob from 192.0.2.11 port 59096 ssh2
+Nov 12 22:48:00 server1 sshd[2202]: Failed password for admin from 203.0.113.9 port 33000 ssh2
+Nov 12 22:48:12 server1 sshd[2205]: Failed password for admin from 203.0.113.9 port 33001 ssh2
+Nov 12 22:48:24 server1 sshd[2214]: Failed password for admin from 203.0.113.9 port 33002 ssh2
+Nov 12 22:48:36 server1 sshd[2216]: Failed password for admin from 203.0.113.9 port 33003 ssh2
+Nov 12 22:48:48 server1 sshd[2221]: Failed password for admin from 203.0.113.9 port 33004 ssh2
+Nov 12 22:49:00 server1 sshd[2230]: Failed password for admin from 203.0.113.9 port 33005 ssh2
+Nov 12 22:49:12 server1 sshd[2233]: Failed password for admin from 203.0.113.9 port 33006 ssh2
+Nov 12 22:49:40 server1 sshd[2235]: Accepted password for admin from 203.0.113.9 port 33010 ssh2
